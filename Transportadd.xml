@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>imm/como1.png</ImageUrl>
+    <AlternateText>best</AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>imm/combo2.png</ImageUrl>
+    <AlternateText>best</AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>imm/combo3.png</ImageUrl>
+    <AlternateText>best</AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+
+</Advertisements>
